@@ -1,6 +1,6 @@
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://search.yahoo.com/mrss/" xmlns:ns4="http://purl.org/syndication/thread/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://search.yahoo.com/mrss/" xmlns:ns4="http://purl.org/syndication/thread/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-<ns0:link href="https://seunome.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+<ns0:link href="https://osdc-cast.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <title>O Som do Cartucho</title>
 <description>O Som do Cartucho é o podcast focado 100% na Videogame Music. Aqui você ouve VGM de qualidade!</description>
 <managingEditor>noreply@blogger.com (O Som do Cartucho)</managingEditor>
@@ -17,9 +17,6 @@
 <ns2:keywords>o som do cartucho, osdc, vgm, videogame music, música de videogame, nintendo, sega, mega drive, super nintendo</ns2:keywords>
 <ns2:summary>O Som do Cartucho é o podcast focado 100% na Videogame Music. Aqui você ouve VGM de qualidade!</ns2:summary>
 <ns2:subtitle>O podcast que toca videogame music</ns2:subtitle>
-<ns2:category text="Games & Hobbies">
-<ns2:category text="Video Games"/>
-</ns2:category>
 <ns2:author>André Albertim</ns2:author>
 <ns2:owner>
 <ns2:email>osomdocartucho@gmail.com</ns2:email>
@@ -681,6 +678,8 @@
 <ns2:summary>Sejam bem-vindos ao episódio piloto de "O Som do Cartucho". Neste episódio eu trago pra vocês as músicas dos jogos com os quais eu tive meu primeiro contato. Aqui eu irei narrar musicalmente minha primeira experiência e contato com os jogos dos videogames. Desde o período dos Arcades até o meu primeiro videogame da 3ª geração, o Master System. AVISO! Este programa foi publicado originalmente em 27/07/2017 e gravado em 2015. "O Som do Cartucho" fazia parte da plataforma "Assoprando Cartuchos" e, eventualmente, ganhou sua própria identidade. Portanto, para fins de interação e contato, leve em consideração apenas a introdução que apresentará cada episódio do OSdC. PLAYLIST DESTE EPISÓDIO COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO Yoshio Imamura - Elevator Action - Stage Theme - ARCADE - 1983 Ichiro Takagi - Moon Patrol - BGM 1 - ARCADE - 1982 Tohru Nakabayashi - Golden Axe - Wilderness (Stage 1) - ARCADE - 1989 Harumi Fujita - Final Fight - Character Select / Name Entry - ARCADE - 1989 Manami Matsumae - Final Fight - Round 5: Bay Area 1 - ARCADE - 1989 Desconhecido - Safari Hunt - Title Screen - MASTER SYSTEM - 1986 Desconhecido - Hang-On - Hidden Track - MASTER SYSTEM - 1985 Kazunaka Yamane - Double Dragon - Title Screen / Mission 1 - MASTER SYSTEM - 1988 Nankyoku, Dolphin - Golden Axe - Turtle Village 2 - MASTER SYSTEM - 1989 Takashi Tateishi - Mega Man 2 - Bubble Man - NES - 1988 Desconhecido - Tetris - Music 1 - NES - 1989 Tokuhiko Uwabo - Alex Kidd in Miracle World - MASTER SYSTEM - 1986</ns2:summary>
 <ns2:keywords>o som do cartucho, osdc, vgm, videogame music, música de videogame, nintendo, sega, mega drive, super nintendo</ns2:keywords>
 </item>
-<ns2:explicit>no</ns2:explicit>
+<ns2:category text="Leisure">
+<ns2:category text="Video Games"/>
+</ns2:category>
 </channel>
 </rss>
