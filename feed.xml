@@ -9,7 +9,7 @@
     <itunes:author>André Albertim</itunes:author>
     <itunes:explicit>no</itunes:explicit> 
     <itunes:category text="Leisure">
-      <itunes:category text="Video Games" />
+      <itunes:category text="Video Games"/>
     </itunes:category> 
     <itunes:image href="https://archive.org/download/osdc_itunes_202403/osdc_itunes.jpg" /> 
     <itunes:owner>
@@ -22,60 +22,43 @@
     <!-- Episódios -->
     <item>
       <title>Primeiro Contato</title>
-      <itunes:episode>0</itunes:episode> <!-- Número do episódio -->
-      <itunes:season>1</itunes:season> <!-- Número da temporada -->
+      <itunes:episode>0</itunes:episode>
+      <itunes:season>1</itunes:season>
       <description>Sejam bem-vindos ao episódio piloto de "O Som do Cartucho". Neste episódio eu trago pra vocês as músicas dos jogos com os quais eu tive meu primeiro contato. Aqui eu irei narrar musicalmente minha primeira experiência e contato com os jogos dos videogames. Desde o período dos Arcades até o meu primeiro videogame da 3ª geração, o Master System.</description>
-      <content:encoded><![CDATA[<b>PLAYLIST DESTE EPISÓDIO</b>
-<br />
-<br />
-<b>COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO</b>
-<br />
-<br />
-<i>Yoshio Imamura</i> - <b>Elevator Action</b> - <b>Stage Theme</b> - ARCADE - 1983
-<br />
-<br />
-<i>Ichiro Takagi</i> - <b>Moon Patrol</b> - <b>BGM 1</b> - ARCADE - 1982
-<br />
-<br />
-<i>Tohru Nakabayashi</i> - <b>Golden Axe</b> - <b>Wilderness (Stage 1)</b> - ARCADE - 1989
-<br />
-<br />
-<i>Harumi Fujita</i> - <b>Final Fight</b> - <b>Character Select / Name Entry</b> - ARCADE - 1989
-<br />
-<br />
-<i>Manami Matsumae</i> - <b>Final Fight</b> - <b>Round 5: Bay Area 1</b> - ARCADE - 1989
-<br />
-<br />
-Desconhecido - <b>Safari Hunt</b> - <b>Title Screen</b> - MASTER SYSTEM - 1986
-<br />
-<br />
-Desconhecido - <b>Hang-On</b> - <b>Hidden Track</b> - MASTER SYSTEM - 1985
-<br />
-<br />
-<i>Kazunaka Yamane</i> - <b>Double Dragon</b> - <b>Title Screen / Mission 1</b> - MASTER SYSTEM - 1988
-<br />
-<br />
-<i>Nankyoku, Dolphin</i> - <b>Golden Axe</b> - <b>Turtle Village 2</b> - MASTER SYSTEM - 1989
-<br />
-<br />
-<i>Takashi Tateishi</i> - <b>Mega Man 2</b> - <b>Bubble Man</b> - NES - 1988
-<br />
-<br />
-Desconhecido - <b>Tetris</b> - <b>Music 1</b> - NES - 1989
-<br />
-<br />
-<i>Tokuhiko Uwabo</i> - <b>Alex Kidd in Miracle World</b> - MASTER SYSTEM - 1986
-<br />
-<br />
-<br />
-]]></content:encoded>
-      <enclosure url="https://archive.org/download/osdc-00/osdc-00.mp3" length="34332672" type="audio/mpeg" /> <!-- URL do arquivo de áudio no Archive.org e tamanho em bytes -->
-      <guid>https://archive.org/download/osdc-00/osdc-00.mp3</guid> <!-- Identificador único, geralmente a URL do áudio -->
-      <pubDate>Wed, 13 Fev 2019 19:26:00 GMT</pubDate> <!-- Data de publicação -->
-      <itunes:duration>00:34:41</itunes:duration> <!-- Duração no formato HH:MM:SS -->
-      <itunes:explicit>no</itunes:explicit> <!-- "yes" ou "no" -->
+      <content:encoded><![CDATA[PLAYLIST DESTE EPISÓDIO
+
+COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO
+
+Yoshio Imamura - Elevator Action - Stage Theme - ARCADE - 1983
+
+Ichiro Takagi - Moon Patrol - BGM 1 - ARCADE - 1982
+
+Tohru Nakabayashi - Golden Axe - Wilderness (Stage 1) - ARCADE - 1989
+
+Harumi Fujita - Final Fight - Character Select / Name Entry - ARCADE - 1989
+
+Manami Matsumae - Final Fight - Round 5: Bay Area 1 - ARCADE - 1989
+
+Desconhecido - Safari Hunt - Title Screen - MASTER SYSTEM - 1986
+
+Desconhecido - Hang-On - Hidden Track - MASTER SYSTEM - 1985
+
+Kazunaka Yamane - Double Dragon - Title Screen / Mission 1 - MASTER SYSTEM - 1988
+
+Nankyoku, Dolphin - Golden Axe - Turtle Village 2 - MASTER SYSTEM - 1989
+
+Takashi Tateishi - Mega Man 2 - Bubble Man - NES - 1988
+
+Desconhecido - Tetris - Music 1 - NES - 1989
+
+Tokuhiko Uwabo - Alex Kidd in Miracle World - MASTER SYSTEM - 1986]]></content:encoded>
+      <enclosure url="https://archive.org/download/osdc-00/osdc-00.mp3" length="34332672" type="audio/mpeg" /> 
+      <guid>https://archive.org/download/osdc-00/osdc-00.mp3</guid> 
+      <pubDate>Wed, 13 Feb 2019 19:26:00 GMT</pubDate> 
+      <itunes:duration>00:34:41</itunes:duration> 
+      <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
       <!-- Imagem específica do episódio, se houver -->
     </item>
-      </channel>
+  </channel>
 </rss>
