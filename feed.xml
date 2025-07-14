@@ -55,7 +55,7 @@ Desconhecido - Tetris - Music 1 - NES - 1989
 Tokuhiko Uwabo - Alex Kidd in Miracle World - MASTER SYSTEM - 1986]]></content:encoded>
       <enclosure url="https://archive.org/download/osdc-00/osdc-00.mp3" length="34332672" type="audio/mpeg" /> 
       <guid>https://archive.org/download/osdc-00/osdc-00.mp3</guid> 
-      <pubDate>Wed, 13 Feb 2019 19:26:00 GMT</pubDate> 
+      <pubDate>Wed, 16 Feb 2019 19:26:00 GMT</pubDate> 
       <itunes:duration>00:34:41</itunes:duration> 
       <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
@@ -97,10 +97,62 @@ Naoki Kodaka, Nobuyuki Hara, Shinichi Seya - Hebereke - Hebe’s Adventure - NES
 Steve Collet, Matt Furniss - The Incredible Hulk - Title Theme - MEGA DRIVE - 1993]]></content:encoded>
       <enclosure url="https://archive.org/download/osdc-01/osdc-01.mp3" length="34695168" type="audio/mpeg" /> 
       <guid>https://archive.org/download/osdc-01/osdc-01.mp3</guid> 
-      <pubDate>Wed, 09 Apr 2019 00:00:00 GMT</pubDate> 
+      <pubDate>Tue, 09 Apr 2019 00:00:00 GMT</pubDate> 
       <itunes:duration>00:34:27</itunes:duration> 
       <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
+
+      <item>
+      <title>Templos, Desertos e Afins</title>
+      <link>https://www.osomdocartucho.com.br/2019/04/templos-desertos-e-afins-e02t01.html</link>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>Olá, Pessoas!!
+
+Neste episódio eu lhes trago uma temática focada em músicas com referências ao Oriente Médio. São músicas envolvendo templos no deserto, pirâmides, masmorra em castelo de sultão, desertos, enfim... Tudo relacionado a muita areia, sol e suor.
+
+Vale a pena destacar neste episódio as músicas para o jogos do Mega Drive, "Atomic Runner" e "Rolling Thunder 2; e para o Gameboy Color, a música para o jogo da "Shantae".
+
+É isso. Nos encontramos na próxima semana. Até lá! E...
+
+Falow!!
+
+Este episódio foi publicado originalmente em 29/08/17.</description>
+      <content:encoded><![CDATA[PLAYLIST DESTE EPISÓDIO
+
+COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO
+
+Cube - Insector X - Area Desert (Theme of Kaite) - MEGA DRIVE - 1990
+
+Yoshio Hirai, Takashi Kumegawa - Startropics 2, Zoda's Revenge - Egypt (Overworld - Chapter 3) - NES - 1994
+
+Masaaki Iwasaki, Azusa Hara, Tatsuya Kiuchi, Hiroaki Yoshida - Atomic Runner (AKA Shelnov) - Stage 5 - MEGA DRIVE - 1992
+
+Mark Miller - Kid Chameleon - Pyramid Area - MEGA DRIVE - 1991
+
+Alberto José Gonzáles - Asterix & Obelix - The Desert - SNES - 1996
+
+Takashi Horiguchi, Ichiro Nemoto, Daisuke Tamura - Arabian Nights: Sabaku no Seirei Ou - Towns in Desert - SNES - 1996
+
+Toshiya Yamanaka, Tetsuya Nakano - Prince of Persia - Stage 3 - SNES - 1992
+
+Hiroki Kikuta - Secret of Mana - Secret of the Arid Sands - SNES - 1993
+
+Mark Van Heck - The Simpsons, Bart vs The World - Egypt - NES - 1991
+
+Ayako Sazo - Rolling Thunder 2 - View of Dynamism - MEGA DRIVE - 1990
+
+Matt Furniss - The Lost Vikings - Egypt - MEGA DRIVE - 1992
+
+Jake Kauffman - Shantae - Risky Boots, The Lady Pirate - GBC - 2002]]></content:encoded>
+      <enclosure url="https://archive.org/download/osdc-02/osdc-02.mp3" length="251798016" type="audio/mpeg" /> 
+      <guid>https://archive.org/download/osdc-02/osdc-02.mp3</guid> 
+      <pubDate>Tue, 16 Apr 2019 00:00:00 GMT</pubDate> 
+      <itunes:duration>00:53:00</itunes:duration> 
+      <itunes:explicit>no</itunes:explicit> 
+      <itunes:author>André Albertim</itunes:author>
+      </item>
+
       
     </item>
   </channel>
