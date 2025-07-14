@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="http://podcastindex.org/namespace/1.0">
   <channel>
     
     <title>O Som do Cartucho</title>
@@ -7,7 +7,6 @@
     <description>O Som do Cartucho é podcast focado 100% na Videogame Music. Aqui você ouve VGM de qualidade.</description>
     <language>pt-br</language> 
     <itunes:author>André Albertim</itunes:author>
-    <itunes:explicit>no</itunes:explicit> 
     <itunes:category text="Leisure">
       <itunes:category text="Video Games"/>
     </itunes:category> 
@@ -17,7 +16,10 @@
       <itunes:email>osomdocartucho@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:summary>O podcast que toca Videogame Music</itunes:summary>
-    <itunes:type>episodic</itunes:type> 
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="https://osdc-cast.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
+
 
     <item>
       <title>Primeiro Contato</title>
@@ -354,6 +356,62 @@ Misty Blue - Misty Blue - NEC PC-88 - 1990]]></content:encoded>
       <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
       </item>
+
+      <item>
+      <title>Yuzo Koshiro (pt.2)</title>
+      <link>https://www.osomdocartucho.com.br/2019/05/yuzo-koshiro-pt2-e07t01.html</link>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>Olá, pessoas! Nesta semana 'O Som do Cartucho' traz a segunda parte do especial Yuzo Koshiro. Neste episódio será abordado a sua fase como "freelancer" e como empresário na 'Ancient Corp', sua empresa de desenvolvimento de jogos. Fase focada nos consoles caseiros.
+
+Um episódio altamente informativo sobre a carreira desse grande compositor e que ainda traz uma breve entrevista que eu fiz com ele pelo Twitter do Assoprando Cartuchos. Está imperdível! Um material de primeira qualidade.
+
+Um forte abraço e nos encontramos na próxima semana.
+
+Falow!
+
+Este episódio foi publicado originalmente em 14/11/17.</description>
+      <content:encoded><![CDATA[PLAYLIST DESTE EPISÓDIO
+
+COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO
+
+Legacy of the Wizard - Item Menu - NES - 1987
+
+Sonic the Hedghog - Scrap Brain Zone - Master System - 1991
+
+Shinobi 2: The Silent Fury - Extro - Game Gear - 1992
+
+Streets of Rage 2 - The Super Three - Game Gear - 1992
+
+Shinobi - Ending - Game Gear - 1991
+
+Streets of Rage - Fighting in the Street - Mega Drive - 1991
+
+The Revenge of Shinobi - The Shinobi - Mega Drive - 1989
+
+Sorcerian - Pentawa 2 - Mega Drive - 1990
+
+Streets of Rage 3 - Crazy Train - Mega Drive - 1994
+
+Super Adventure Island - The Island of Everlasting Summer - SNES - 1992
+
+Streets of Rage 2 - Wave 131 - Mega Drive - 1992
+
+Slap Fight MD - Sakusen Tactics - Mega Drive - 1993
+
+ActRaiser - Filmoa - SNES - 1990
+
+Streets of Rage - Violent Breathing - Mega Drive - 1991
+
+The Revenge of Shinobi - Chinatown - Mega Drive - 1989]]></content:encoded>
+      <enclosure url="https://archive.org/download/osdc-07/osdc-07.mp3" length="75384832" type="audio/mpeg" /> 
+      <guid>https://archive.org/download/osdc-07/osdc-07.mp3</guid> 
+      <pubDate>Tue, 21 May 2019 00:00:00 GMT</pubDate> 
+      <itunes:duration>01:17:35</itunes:duration> 
+      <itunes:explicit>no</itunes:explicit> 
+      <itunes:author>André Albertim</itunes:author>
+      </item>
+
       
     </item>
   </channel>
