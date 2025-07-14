@@ -61,5 +61,47 @@ Tokuhiko Uwabo - Alex Kidd in Miracle World - MASTER SYSTEM - 1986]]></content:e
       <itunes:author>André Albertim</itunes:author>
       <!-- Imagem específica do episódio, se houver -->
     </item>
+
+    <item>
+      <title>Música de Abertura</title>
+      <link>https://www.osomdocartucho.com.br/2019/04/musica-de-abertura-e01t01.html</link>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>Olá pessoas! Sejam todos bem-vindos ao episódio 1 do Som do Cartucho!
+
+Neste episódio eu irei apresentar sete faixas para a seleção de música de abertura para os episódio do OSdC. O objetivo é selecionar uma faixa que seja a mais carismática e sucinta.
+
+Apesar do podcast já está bem estabelecido, vale a pena ressaltar as faixas do jogo "Silver Surfer", pelos irmãos Follin, e a do jogo "Mega Turrican", de Chris Hüslbeck. São sensacionais!
+
+É isso. Um grande abraço e nos encontramos na próxima semana!
+
+Falow!!
+
+Data original de publicação do episódio, 15/08/2017</description>
+      <content:encoded><![CDATA[PLAYLIST DESTE EPISÓDIO
+
+COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO
+
+Jun Funahachi - Teenage Mutant Ninja Turtles - Overworld Theme (Streets) - NES - 1989
+
+Naoki Kodaka - Journey to Silius - Title Theme - NES - 1990
+
+Tim Follin - Silver Surfer - Title Theme - NES - 1990
+
+Masanori Hikichi, Noriyuki Iwadare, Yoshiaki Kubotera, Isao Mizoguchi - Advanced Busterhawk, Gley Lancer - Story Begin - MEGA DRIVE - 1992
+
+Chris Hülsbeck - Mega Turrican - Stage 1-1 - MEGA DRIVE - 1993
+
+Naoki Kodaka, Nobuyuki Hara, Shinichi Seya - Hebereke - Hebe’s Adventure - NES - 1991
+
+Steve Collet, Matt Furniss - The Incredible Hulk - Title Theme - MEGA DRIVE - 1993]]></content:encoded>
+      <enclosure url="https://archive.org/download/osdc-01/osdc-01.mp3" length="2066.81" type="audio/mpeg" /> 
+      <guid>https://archive.org/download/osdc-01/osdc-01.mp3</guid> 
+      <pubDate>Wed, 09 Apr 2019 00:00:00 GMT</pubDate> 
+      <itunes:duration>00:34:27</itunes:duration> 
+      <itunes:explicit>no</itunes:explicit> 
+      <itunes:author>André Albertim</itunes:author>
+      
+    </item>
   </channel>
 </rss>
