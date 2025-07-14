@@ -19,7 +19,6 @@
     <itunes:summary>O podcast que toca Videogame Music</itunes:summary>
     <itunes:type>episodic</itunes:type> 
 
-    <!-- Episódios -->
     <item>
       <title>Primeiro Contato</title>
       <link>https://www.osomdocartucho.com.br/2019/02/primeiro-contato-osdc-e00t01.html</link>
@@ -59,7 +58,6 @@ Tokuhiko Uwabo - Alex Kidd in Miracle World - MASTER SYSTEM - 1986]]></content:e
       <itunes:duration>00:34:41</itunes:duration> 
       <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
-      <!-- Imagem específica do episódio, se houver -->
     </item>
 
     <item>
@@ -302,6 +300,57 @@ Jesper Kyd - Sub-Terrania - Funky Writer (Mission Report) - MEGA DRIVE - 1995]]>
       <guid>https://archive.org/download/osdc-05/osdc-05.mp3</guid> 
       <pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate> 
       <itunes:duration>00:54:54</itunes:duration> 
+      <itunes:explicit>no</itunes:explicit> 
+      <itunes:author>André Albertim</itunes:author>
+      </item>
+      
+      <item>
+      <title>Yuzo Koshiro (pt.1)</title>
+      <link>https://www.osomdocartucho.com.br/2019/05/yuzo-koshiro-pt1-e06t01.html</link>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description>Olá, pessoas! Neste semana 'O Som do Cartucho' traz pra você a primeira parte do especial do 'Mago do Som', Yuzo Koshiro. O especial tem por objetivo apresentar a carreira deste grande compositor em ordem cronológica e musical.
+
+Portanto, nesta primeira parte será abordado o período inicial da sua carreira, que foi bastante focada nos computadores da NEC e SHARP; e nos jogos desenvolvidos pela Nihon Falcom.
+
+É isso. Um forte abraço. Nos encontramos na próxima semana.
+
+Falow!
+
+Este episódio foi publicado originalmente em 31/10/17.</description>
+      <content:encoded><![CDATA[PLAYLIST DESTE EPISÓDIO
+
+COMPOSITOR - JOGO - MÚSICA - CONSOLE - ANO
+
+Romancia.Dragon Slayer Jr. - Opening - NEC PC-88 - 1986
+
+Takahito Abe - Xanadu Scenario II - Poigone (Level 3) - NEC PC-98 - 1986
+
+Dark Storm: Demon Crystal III - Main Theme - SHARP X-1 - 1987
+
+Ys: Ancient Ys Vanished Omen - Tower of the Shadow of Death - NEC PC-88 - 1987
+
+Ys: Ancient Ys Vanished Omen - Theme of Adoru - NEC PC-88 - 1987
+
+Ys II: Anciente Ys Vanished The Final Chapter - To Make The End of Battle - NEC PC-88 - 1988
+
+Ys II: Anciente Ys Vanished The Final Chapter - Ice Ridge of Noltia - NEC PC-88 - 1988
+
+Ys II: Anciente Ys Vanished The Final Chapter - Moat of Burnedbless - NEC PC-88 - 1988
+
+The Scheme - Nuclear Power - NEC PC-88 - 1988
+
+The Curse of Mars - Title Theme - SHARP X1 - 1988
+
+The Curse of Mars - BGM 3 (Overworld) - SHARP X1 - 1988
+
+Misty Blue - Opening - NEC PC-88 - 1990
+
+Misty Blue - Misty Blue - NEC PC-88 - 1990]]></content:encoded>
+      <enclosure url="https://archive.org/download/Osdc06/osdc%20-%2006.mp3" length="65118208" type="audio/mpeg" /> 
+      <guid>https://archive.org/download/Osdc06/osdc%20-%2006.mp3</guid> 
+      <pubDate>Tue, 14 May 2019 00:00:00 GMT</pubDate> 
+      <itunes:duration>01:06:53</itunes:duration> 
       <itunes:explicit>no</itunes:explicit> 
       <itunes:author>André Albertim</itunes:author>
       </item>
